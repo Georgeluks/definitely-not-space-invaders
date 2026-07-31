@@ -1,0 +1,7 @@
+build/
+*.0
+*.out
+compile_commands.json
+.cache/
+.zellij.kdl
+
