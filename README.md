@@ -43,7 +43,7 @@ sudo apt install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev
 **2. Clone o repositório:**
 
 ```bash
-git clone git@github.com:Georgeluks/space-invaders.git
+git clone git@github.com:Georgeluks/definitely-not-space-invaders.git
 cd space-invaders
 ```
 
